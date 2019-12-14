@@ -1,0 +1,7 @@
+{
+  "name": "Wireframer",
+  "id": "787615958748400005",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
