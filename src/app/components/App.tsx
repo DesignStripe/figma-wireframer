@@ -28,7 +28,7 @@ const App = ({}) => {
   const [structure, setStructure] = useState([]);
   const [maxWidth, setMaxWidth] = useState(100);
   const [svg, setSvg] = useState("");
-  const [colors, setColors] = useState(["#DEE1FF"]);
+  const [colors, setColors] = useState(["#3d50fc"]);
 
   const onCreate = () => {
     parent.postMessage(
